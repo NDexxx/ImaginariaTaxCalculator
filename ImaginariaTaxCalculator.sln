@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImaginariaTaxCalculator", "ImaginariaTaxCalculator\ImaginariaTaxCalculator.csproj", "{AA8B043C-864E-40A7-998C-93307385DAA3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImaginariaTaxCalculator.Tests", "ImaginariaTaxCalculator.Tests\ImaginariaTaxCalculator.Tests.csproj", "{2683FA1A-9F86-4245-91EA-AAC968556BC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA8B043C-864E-40A7-998C-93307385DAA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA8B043C-864E-40A7-998C-93307385DAA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA8B043C-864E-40A7-998C-93307385DAA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA8B043C-864E-40A7-998C-93307385DAA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2683FA1A-9F86-4245-91EA-AAC968556BC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2683FA1A-9F86-4245-91EA-AAC968556BC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2683FA1A-9F86-4245-91EA-AAC968556BC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2683FA1A-9F86-4245-91EA-AAC968556BC4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F523546-1C3A-4564-9749-705E4654DD55}
+	EndGlobalSection
+EndGlobal
